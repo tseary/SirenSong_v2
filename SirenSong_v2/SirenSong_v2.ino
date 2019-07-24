@@ -1,6 +1,6 @@
 /*******************************************************************************
  * Siren Song v2
- * This file is part of Siren Song, created by Thomas Seary (subatomicsushi),
+ * This file is part of Siren Song, created by Thomas Seary,
  * April 2015, updated July 2019.
  * Free for any use at own risk.
  *
