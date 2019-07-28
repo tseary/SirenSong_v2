@@ -1,6 +1,6 @@
 
-SirenSong_v2/.vs/
-SirenSong_v2/__vm/
-SirenSong_v2/Release/
+SirenSong_v2/.vs/*
+SirenSong_v2/__vm/*
+SirenSong_v2/Release/*
 SirenSong_v2/SirenSong_v2.vcxproj.filters
 SirenSong_v2/SirenSong_v2.vcxproj.user
